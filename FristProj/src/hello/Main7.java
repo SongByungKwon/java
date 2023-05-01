@@ -15,6 +15,7 @@ public class Main7 {
 		System.out.println(y);
 		System.out.println(a);
 		System.out.println(b);
+		System.out.println(c);
 		System.out.println(res1);
 		System.out.println(res2);
 		
