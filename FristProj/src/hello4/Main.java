@@ -18,7 +18,7 @@ public class Main {
 		}
 		
 		String strVr3 = new String ("JBEdu");
-		String strVr4 = new  String ("JBEdu");
+		String strVr4 =  ("JBEdu");
 		
 		if(strVr3 == strVr4){
 			System.out.println("참조가 같음");
